@@ -149,6 +149,7 @@ nvstrings-cuda92==0.8.0
 oauthlib==3.0.1
 olefile==0.46
 opencv-contrib-python==4.1.0.25
+opencv-python==4.1.2.30
 opt-einsum==3.1.0
 packaging==19.1
 pamela==1.0.0
@@ -158,7 +159,7 @@ parso==0.5.1
 partd==1.0.0
 pexpect==4.7.0
 pickleshare==0.7.5
-Pillow==6.1.0
+Pillow==6.2.0
 Pillow-SIMD==6.0.0.post0
 pkginfo==1.5.0.1
 plac==0.9.6
